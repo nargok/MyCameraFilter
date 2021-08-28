@@ -13,6 +13,7 @@
 		283D1B6126DA00CA00CC5589 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 283D1B5F26DA00CA00CC5589 /* Main.storyboard */; };
 		283D1B6326DA00CC00CC5589 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 283D1B6226DA00CC00CC5589 /* Assets.xcassets */; };
 		283D1B6626DA00CC00CC5589 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 283D1B6426DA00CC00CC5589 /* LaunchScreen.storyboard */; };
+		283D1B6F26DA03BB00CC5589 /* PhotoCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283D1B6E26DA03BB00CC5589 /* PhotoCollectionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		283D1B6226DA00CC00CC5589 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		283D1B6526DA00CC00CC5589 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		283D1B6726DA00CC00CC5589 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		283D1B6E26DA03BB00CC5589 /* PhotoCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCollectionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				283D1B5B26DA00CA00CC5589 /* SceneDelegate.swift */,
 				283D1B5D26DA00CA00CC5589 /* ViewController.swift */,
 				283D1B5F26DA00CA00CC5589 /* Main.storyboard */,
+				283D1B6E26DA03BB00CC5589 /* PhotoCollectionViewController.swift */,
 				283D1B6226DA00CC00CC5589 /* Assets.xcassets */,
 				283D1B6426DA00CC00CC5589 /* LaunchScreen.storyboard */,
 				283D1B6726DA00CC00CC5589 /* Info.plist */,
@@ -140,6 +143,7 @@
 				283D1B5E26DA00CA00CC5589 /* ViewController.swift in Sources */,
 				283D1B5A26DA00CA00CC5589 /* AppDelegate.swift in Sources */,
 				283D1B5C26DA00CA00CC5589 /* SceneDelegate.swift in Sources */,
+				283D1B6F26DA03BB00CC5589 /* PhotoCollectionViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
